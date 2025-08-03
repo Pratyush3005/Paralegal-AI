@@ -1,0 +1,13 @@
+langchain==0.1.13
+docarray==0.32.0
+langchain-openai==0.1.8
+langchain-pinecone==0.0.3
+pydantic==1.10.8
+pytube
+python-dotenv
+tiktoken
+pinecone-client
+scikit-learn
+ruff
+pypdf
+docarray==0.21.1
